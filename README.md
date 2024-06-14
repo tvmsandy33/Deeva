@@ -5,7 +5,8 @@ and contextually filling them up with the help of Distil-Bert-Base backbone.
 
 # Installation
 
-pip install git+https://github.com/yourusername/your-repo.git
+pip install git+https://github.com/tvmsandy33/Deeva.git
+
 
 python -m spacy download en_core_web_sm
 
